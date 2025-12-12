@@ -1,4 +1,4 @@
-# 🎯 Employee Management System – Java OOP Project
+# 🎯 Employee Payroll Management System – Java OOP Project
 
 ![Language](https://img.shields.io/badge/Language-Java-orange?logo=openjdk)
 ![Concept](https://img.shields.io/badge/Concept-OOP%20%7C%20Inheritance%20%7C%20Polymorphism-blue)
